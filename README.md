@@ -17,7 +17,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 <p align="left">
 <a href="https://linkedin.com/in/barha-meherun-pritha-15785979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barha-meherun-pritha-15785979" height="30" width="40" /></a> &nbsp;
-<a href="https://www.youtube.com/c/barhameherunpritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barhameherunpritha" height="30" width="40" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCxocOJuPIit7r5gWmBqeMOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barhameherunpritha" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/barhapritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barhapritha" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/barha_pritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barha_pritha" height="30" width="40" /></a> &nbsp;
 <a href="https://twitter.com/barha_pritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barha_pritha" height="30" width="40" /></a> &nbsp;
