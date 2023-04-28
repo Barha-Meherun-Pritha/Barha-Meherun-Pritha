@@ -40,9 +40,8 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
      - Database Developer (Airtable, Firebase, MS Access) <br>
      
 - **Student Tutor**, [Brac University](https://www.bracu.ac.bd/), *October 2021 - January 2022*
-     - Front-end Web Developer
-     - WordPress Web Developer
-     - Database Developer (Airtable, Firebase, MS Access) <br>
+     - Helped faculty to check and grade assignments of students enrolled in *Introduction to Robotics* course 
+     - Helped students with both their theory and lab work who where enrolled in *Introduction to Robotics* course <br>
      
 - **Co-Founder & Chief Operating Officer**, [Skills For Sure](https://www.facebook.com/skillsforsure.bd), *May 2020 - Present*
      - Academic Mentor of Front-end Web Development and Freelancing Course
