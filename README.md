@@ -186,7 +186,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barha-meherun-pritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
 
 <br>
 
