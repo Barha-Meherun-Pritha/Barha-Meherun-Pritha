@@ -186,11 +186,11 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barha-meherun-pritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
 
 <br>
 
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barha-meherun-pritha&label=Profile%20views&color=0e75b6&style=flat" alt="barha-meherun-pritha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barha-meherun-pritha" alt="barha-meherun-pritha" /></a> </p>
@@ -198,12 +198,11 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 <p align="left"> <a href="https://twitter.com/barha_pritha" target="blank"><img src="https://img.shields.io/twitter/follow/barha_pritha?logo=twitter&style=for-the-badge" alt="barha_pritha" /></a> </p>
 
 
-
-
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barha-meherun-pritha&show_icons=true&locale=en" alt="barha-meherun-pritha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barha-meherun-pritha&" alt="barha-meherun-pritha" /></p> 
-
+- ⚡ Fun fact: ...
+-->
 
 
 
