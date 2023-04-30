@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barha Meherun Pritha</h1>
 <br>
 
-## About Me 🙋
+## About Me 🙋🏻‍♀️ 
 
 <p align="justify">Detail-oriented and punctual Computer Science and Engineering graduate with resourceful analytical and 
 problem-solving skills. Have proficient skills on Python, Java and C# programming. Worked as a Trainee
