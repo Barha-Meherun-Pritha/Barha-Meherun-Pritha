@@ -183,12 +183,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 - 2nd Position in Sudoku Olympiad at the 6th Govt. Science College Scientist Mania 2014
 
 - 1st position in Junior Category Story Writing Competition at the National Space Carnival 2016
-
 <br>
-
-<!--
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p> -->
-
 
 ## GitHub Stats 📊 
 ![](https://github-readme-stats.vercel.app/api?username=BarhaPritha&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
@@ -206,8 +201,10 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 ## Random Dev Quote ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <br>
+
+<!--
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p> -->
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=BarhaPritha&icon=7&color=6)](https://visitcount.itsvg.in) -->
