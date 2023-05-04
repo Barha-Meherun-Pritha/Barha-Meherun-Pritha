@@ -186,9 +186,34 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p>
+<!--
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barhapritha&show_icons=true&locale=en&layout=compact" alt="barhapritha" /></p> -->
+
+
+## GitHub Stats 📊 
+![](https://github-readme-stats.vercel.app/api?username=BarhaPritha&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BarhaPritha&theme=midnight-purple&hide_border=true)
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BarhaPritha&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
+
+## GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=BarhaPritha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<br>
+
+## Random Dev Quote ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
+
+<!--
+[![](https://visitcount.itsvg.in/api?id=BarhaPritha&icon=7&color=6)](https://visitcount.itsvg.in) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barha-meherun-pritha&label=Profile%20views&color=0e75b6&style=flat" alt="barha-meherun-pritha" /> </p>
