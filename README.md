@@ -191,7 +191,7 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 
 
 ## GitHub Stats 📊 
-![](https://github-readme-stats.vercel.app/api?username=BarhaPritha&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=BarhaPritha&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 <br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BarhaPritha&theme=midnight-purple&hide_border=true)
