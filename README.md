@@ -21,7 +21,8 @@ marketplace. Ambitious to complete projects with new ideas, and dedicated to mee
 <a href="https://fb.com/barhapritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barhapritha" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/barha_pritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barha_pritha" height="30" width="40" /></a> &nbsp;
 <a href="https://twitter.com/barha_pritha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barha_pritha" height="30" width="40" /></a> &nbsp;
-<a href="https://www.fiverr.com/barha_pritha" style="color:green;" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="barha_pritha" height="30" width="40" style="color:green;" /></a> &nbsp;
+<a href="https://www.fiverr.com/barha_pritha" style="color:green;" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="barha_pritha" height="30" width="40" style="color:green;" /></a> &nbsp; &nbsp;
+Email Address: barha.pritha@gmail.com
 </p>
 <br>
 
